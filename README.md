@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lubi248
+- 👀 I’m interested in application development, UX, and general frontend work as well as serverside devops
+- 🌱 I’m currently doing my degree in Sound Engineering & audio technology
+- 📫 How to reach me: lubi248@gmail.com
+- 😄 Pronouns: he/him
