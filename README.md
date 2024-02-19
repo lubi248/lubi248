@@ -3,3 +3,11 @@
 - 🌱 I’m currently doing my degree in Sound Engineering & audio technology
 - 📫 How to reach me: lubi248@gmail.com
 - 😄 Pronouns: he/him
+- languages I am proficient in:
+    - Javascript
+    - C
+    - C++
+    - Java
+    - GO lang
+    - matlab 
+      
