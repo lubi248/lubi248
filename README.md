@@ -5,6 +5,7 @@
 - 😄 Pronouns: he/him
 - languages I am proficient in:
     - Javascript
+    - typescript
     - C
     - C++
     - Java
